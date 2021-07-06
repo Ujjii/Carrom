@@ -18,7 +18,7 @@ public class Board {
 	/**
 	 * Represent the 4 holes in the corner
 	 */
-	public Circle[] holes;
+	public Circle[] hole;
 	public Circle centerCircle;
 	public Rect[] shootingRect;
 	public Rect boundsRect;
