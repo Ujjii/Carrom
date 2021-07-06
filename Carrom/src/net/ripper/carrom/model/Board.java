@@ -4,7 +4,7 @@ import net.ripper.carrom.model.components.Circle;
 import android.graphics.Rect;
 
 /**
- * this class represents the carrom board. Describes the holes in the corner,
+ * this class represents the ccarrom board. Describes the holes in the corner,
  * the circle in the center, shooting regions(which are basically rectangles)
  * bounds of the board and the friction on the surface of the board.
  * 
